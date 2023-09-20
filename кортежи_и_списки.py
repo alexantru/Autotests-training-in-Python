@@ -6,3 +6,5 @@ for _ in range(int(input())):
 number = int(input())
 for i in data:
     print(i ** number)
+
+#тест
